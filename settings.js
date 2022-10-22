@@ -19,9 +19,9 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94711645746']
+global.owner = ['sehas']
 global.premium = ['sehas']
-global.ownernomer = '94711645746'
+global.ownernomer = '380946607980'
 global.ownername = '💎sehas MD🌈'
 global.botname = '𝗦𝗘𝗛𝗔𝗦 ▬ 🌈𝗠𝗗♦️'
 global.footer = '𝗦𝗘𝗛𝗔𝗦 ▬ 🌈𝗠𝗗♦️.'
@@ -29,7 +29,7 @@ global.ig = 'https://github.com/nexusNw'
 global.region = 'sri lanka,soundern province,mathara'
 global.sc= 'https://github.com/nexusNw/Gojo-Satoru'
 global.myweb = 'tiktok.com/@sehas_comedy_official_'
-global.packname = '𝗦𝗘𝗛𝗔𝗦 ▬ 🌈𝗠𝗗♦️'
+global.packname = '𝗦𝗘𝗛𝗔𝗦 ▬ ✊𝗠𝗗♦️'
 global.author = '𝗦𝗘𝗛𝗔𝗦 ▬ 🌈𝗠𝗗♦️'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
